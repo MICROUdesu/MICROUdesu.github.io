@@ -1,0 +1,16 @@
+{
+"companyName": "MICROU",
+"productName": "Copyright © 2020 MICROU All Rights Reserved.",
+"productVersion": "0.1",
+"dataUrl": "gallery.data.unityweb",
+"wasmCodeUrl": "gallery.wasm.code.unityweb",
+"wasmFrameworkUrl": "gallery.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#111010",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
